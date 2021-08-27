@@ -24,7 +24,7 @@ const mockEvents = {
 };
 
 
-// bring in firestore
+// bring in firestore test
 const Firestore = require("@google-cloud/firestore");
 
 // initialize Firestore and set project id from env var
